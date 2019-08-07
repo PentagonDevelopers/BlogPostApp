@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cf5f36b4-e3e9-4be5-8698-4ee7ec78945e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/BlogPostApp/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/BlogPostApp/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +16,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BlogPostApp/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="30" column="24" lean-forward="true" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+            <state relative-caret-position="358">
+              <caret line="138" column="31" selection-start-line="138" selection-start-column="31" selection-end-line="138" selection-end-column="31" />
+              <folding>
+                <element signature="e#312#321#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -131,12 +135,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1565158110687</updated>
-      <workItem from="1565158111859" duration="1592000" />
+      <workItem from="1565158111859" duration="2082000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1592000" />
+    <option name="totallyTimeSpent" value="2082000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -197,8 +201,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BlogPostApp/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="30" column="24" lean-forward="true" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+        <state relative-caret-position="358">
+          <caret line="138" column="31" selection-start-line="138" selection-start-column="31" selection-end-line="138" selection-end-column="31" />
+          <folding>
+            <element signature="e#312#321#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
